@@ -7,3 +7,21 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+## What new skills have you learned?
+
+Look up MDN for help.
+
+## what has been easy ?
+
+As a developer with experience in java develop, it seems not difficult to follow this lessons.
+
+## what has been difficult?
+
+Try to know all of the HTML element in MDN is quiet diffcult, especially those not very often used ones.
+
+##How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+Yes, I checked MDN and used google and github.
+
+
+
